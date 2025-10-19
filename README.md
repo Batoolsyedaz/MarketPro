@@ -1,70 +1,96 @@
-# Getting Started with Create React App
+📊 MarketPro - Interactive Financial Dashboard
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A beautiful, real-time financial dashboard for tracking stock performance and portfolio metrics. Built with modern web technologies for an intuitive user experience.
 
-## Available Scripts
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
 
-In the project directory, you can run:
+🎯 Overview
+MarketPro is a comprehensive financial data visualization dashboard that empowers investors and traders to monitor market performance effortlessly. With real-time stock tracking, interactive charts, and an intuitive interface, MarketPro makes financial data accessible and actionable.
+Whether you're tracking your portfolio or analyzing market trends, MarketPro provides the insights you need in seconds.
 
-### `npm start`
+✨ Key Features
+📈 Real-Time Data Visualization
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Multiple Chart Types: Area charts, bar charts, and pie charts for different data perspectives
+Stock Tracking: Monitor AAPL, GOOGL, MSFT, and AMZN in real-time
+Smooth Animations: Professional transitions and loading effects
+Interactive Legends: Click to show/hide specific data series
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+🌓 Dark/Light Mode
 
-### `npm test`
+Seamless theme switching with one click
+Optimized color palettes for both modes
+Enhanced accessibility and reduced eye strain
+Persistent theme preference
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+🎛️ Advanced Filtering & Controls
 
-### `npm run build`
+Date Range Selectors: View 1D, 7D, 30D, or 90D data
+Stock Selection: Filter individual stocks for focused analysis
+Search Functionality: Quick stock discovery
+Dynamic Updates: Charts update instantly based on filters
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+💰 Professional KPI Dashboard
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Total Portfolio Value tracking
+Daily Returns monitoring
+Market Health Indicators
+30-Day Performance Averages
+Color-coded positive/negative indicators
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+📱 Fully Responsive Design
 
-### `npm run eject`
+Desktop, tablet, and mobile optimized
+Touch-friendly interface elements
+Adaptive layouts that scale beautifully
+Fast performance across all devices
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+🛠️ Tech Stack
+Frontend:
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+React 18+ - UI library with hooks
+Recharts - Composable charting library
+Lucide React - Beautiful icon library
+Inline CSS - Custom responsive styling
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+Key Concepts:
 
-## Learn More
+Component-based architecture
+React hooks (useState, useEffect)
+State management and lifting state
+Event handling and user interactions
+Responsive design patterns
+Data visualization and transformation
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+🚀 Getting Started
+Prerequisites
 
-### Code Splitting
+Node.js (v14 or higher)
+npm or yarn package manager
+Git
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+Installation
 
-### Analyzing the Bundle Size
+Clone the repository
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+bashgit clone https://github.com/YOUR_USERNAME/marketpro.git
+cd marketpro
 
-### Making a Progressive Web App
+Install dependencies
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+bashnpm install
 
-### Advanced Configuration
+Start the development server
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+bashnpm start
 
-### Deployment
+Open your browser
+Navigate to http://localhost:3000
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
